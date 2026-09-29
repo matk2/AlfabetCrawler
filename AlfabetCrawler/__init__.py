@@ -1,0 +1,1 @@
+"""AlfabetCrawler Scrapy project package."""

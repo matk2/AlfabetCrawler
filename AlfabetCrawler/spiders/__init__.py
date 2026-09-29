@@ -1,0 +1,1 @@
+"""Spider definitions for AlfabetCrawler."""

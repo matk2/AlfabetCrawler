@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.scrapy/
+httpcache/
+crawls/
+Output/
+downloaded_files/
+downloaded_images/
+alfabet_pages.jsonl
+.DS_Store
+Thumbs.db
